@@ -1,0 +1,6 @@
+*.pyc
+__pyche__
+myvenv
+db.squile3
+/static
+.DS_Store
